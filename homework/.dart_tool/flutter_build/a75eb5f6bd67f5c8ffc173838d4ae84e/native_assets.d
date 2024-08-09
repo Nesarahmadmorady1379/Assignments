@@ -1,0 +1,1 @@
+ C:\\Users\\Nesar\\Desktop\\Homework\\homework\\.dart_tool\\flutter_build\\a75eb5f6bd67f5c8ffc173838d4ae84e\\native_assets.yaml: 
